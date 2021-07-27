@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the HippieStation contributions page. Everyone is free to contribute, but there must be some minimum standards in mind when doing so.
+This is the Station's contributions page. Everyone is free to contribute, but there must be some minimum standards in mind when doing so.
 
 ## Getting Started
 We do not have a list of goals and features to add. Instead, there is freedom for contributors to suggest and create their ideas for the game. That does not mean we aren't determined to squash bugs, which unfortunately pop up a lot due to the deep complexity of the game. Here are some useful getting started guides, if you want to contribute or if you want to know what challenges you can tackle with zero knowledge about the game's code structure.
