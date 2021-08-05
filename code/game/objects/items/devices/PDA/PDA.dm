@@ -1013,6 +1013,7 @@ GLOBAL_LIST_EMPTY(PDAs)
 	return COMPONENT_PDA_NO_DETONATE
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 /obj/item/pda/proc/DiscoFever() //Hippie. Shamelessly ripped from the disco ball. For the DISCO FEVER cartridge.
 	remove_atom_colour(TEMPORARY_COLOUR_PRIORITY)
 	fcolor = random_color()
@@ -1048,6 +1049,8 @@ GLOBAL_LIST_EMPTY(PDAs)
 		return
 	stopMusic(user)
 
+=======
+>>>>>>> parent of 28164b4cb6 (The DJ (#12830))
 =======
 >>>>>>> parent of 28164b4cb6 (The DJ (#12830))
 #undef PDA_SCANNER_NONE

@@ -364,6 +364,7 @@
 				on = TRUE
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 /obj/item/radio/AltClick(mob/living/user) //Hippie
 	..()
 	if(!istype(user) || !Adjacent(user) || user.incapacitated())
@@ -445,6 +446,8 @@
 
 //Hippie end
 
+=======
+>>>>>>> parent of 28164b4cb6 (The DJ (#12830))
 =======
 >>>>>>> parent of 28164b4cb6 (The DJ (#12830))
 ///////////////////////////////
